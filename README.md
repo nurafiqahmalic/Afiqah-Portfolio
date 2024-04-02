@@ -4,6 +4,10 @@ This is the GitHub repository for Afiqah Malic's personal website.
 
 Click here to view the site: https://nurafiqahmalic.github.io/Afiqah-Portfolio/
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ## Introduction
 
 This repository contains the HTML, CSS, and JavaScript code for Afiqah Malic's personal website. The website serves as a portfolio showcasing Afiqah Malic's skills, experiences, and projects.
